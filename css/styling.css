@@ -1,0 +1,27 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+ol {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
