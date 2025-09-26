@@ -23,5 +23,15 @@ li {
 
 h1 {
     color: red;
-    text-align: center;
+    text-align: left;
+}
+
+h2 {
+    color: red;
+    text-align: left;
+}
+
+h3 {
+    color: red;
+    text-align: left;
 }
