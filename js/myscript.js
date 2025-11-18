@@ -21,3 +21,10 @@ function validate () {
         return;
 }
 
+function validate () {
+     let name = document.getElementById("name").value
+    let email = document.getElementById("email").value
+    let phone = document.getElementById("phone").value
+    let car = document.getElementById("carSelection").value
+
+}
