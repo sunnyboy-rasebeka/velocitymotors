@@ -29,7 +29,8 @@ function validate () {
 
 }
 
-var map = L.map('map').setView([-26.2041, 28.0473], 6);
+function validate () {
+    var map = L.map('map').setView([-26.2041, 28.0473], 6);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: 'Velocity Motors Map'
@@ -37,4 +38,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 L.marker([-26.2041, 28.0473])
     .addTo(map)
-    .bindPopup("<b>Velocity Motors - Pretoria</b><br>Head Office")
+    .bindPopup("Velocity Motors - Pretoria</b><br>Head Office")
+
+}
